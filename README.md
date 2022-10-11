@@ -1,6 +1,6 @@
 # MNXB01-learn
 
-Once upon a time, there was a **nightime** _birthday cake_
+Once upon a time, there was a **nighttime** _birthday cake_
 
 ```
                        * 
@@ -52,3 +52,7 @@ Once upon a time, there was a **nightime** _birthday cake_
           ---------------------------------------------
 ```
 Credit: <https://www.asciiart.eu/food-and-drinks/other>
+
+This delicious treat was a 2-story sugar cake with an inner raspberry 
+jam filling, coated in vanilla-flavoured wipped cream finished with a 
+topping of luxurious dark chocolate glace.
